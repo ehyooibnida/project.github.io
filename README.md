@@ -1,1 +1,3 @@
-<h1><span style="background-color:1"><p style="text-align:center;">빈곤 종식</p></span></h1>
+<h1><span style="background-color:1"><center>빈곤 종식</center></span></h1>
+
+<img src="빈곤에 대한 정보 알기.jpg"><img src="빈곤 관련 퀴즈.jpg">
